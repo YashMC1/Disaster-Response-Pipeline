@@ -51,6 +51,12 @@ Improve Model
 
 Export Model as .pkl File
 
+Results
+
+    1)Created an ETL pipeline to read data from two csv files, clean data, and save data into a SQLite database.
+    2)Created a machine learning pipeline to train a multi-output classifier on the various categories in the dataset.
+    3)Created a Flask app to show data visualization and classify any message that users would enter on the web page.
+
 Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
